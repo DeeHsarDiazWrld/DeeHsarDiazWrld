@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**DeeHsarDiazWrld/DeeHsarDiazWrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+print(f'Follow {DeeHsarDiazWrld} on Github')
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+       OS  :  nt10
+   Python  :  python 3.9.12
+Languages  : English, Arbic
+Instagram  :  https://www.instagram.com/rasheedaidzaid/
+   Server  :  850005569217364049
+```
+
+```json
+Knowledge is power.
+```
+
+<a href="https://www.instagram.com/rasheedaidzaid/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
